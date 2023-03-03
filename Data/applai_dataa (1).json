@@ -1,0 +1,69 @@
+{
+  "applai": [
+    {
+      "tag": "greetings",
+      "patterns": [ "hello", "hi", "hey", "greetings", "what`s up?", "good day" ],
+      "responses": [ "Hey!", "Hello!", "What Can I Do For You?" ]
+
+    },
+    {
+      "tag": "good bye",
+      "patterns": [ "bye", "bye bye", "good bye", "I`m leaving", "I will go now" ],
+      "responses": [ "Bye!", "See you again", "Bye Bye!" ]
+
+
+    },
+    {
+      "tag": "name",
+      "patterns": [ "what is your name?", "how should I call you ?", "what`s your name?", "who are you?", "Can you tell me your name?" ],
+      "responses": [ "My name is applai bot", "you can call me applai bot", "applai bot" ]
+
+
+    },
+    {
+      "tag": "applai`s trainings time",
+      "patterns": [ "when is applai`s training held?", "when is the training held?", "how many trainings are held?", "Does applai have any trainings?" ],
+      "responses": [ "We have two trainings , winter and summer training the first training which is in winter has small capacity but the second one in the summer has bigger capacity" ]
+
+    },
+    {
+      "tag": "applai`s trainings place",
+      "patterns": [ "where is applai`s training held?", "where could I find applai`s training ?", "at what place is the training held?" ],
+      "responses": [ "We have two trainings , winter and summer training both are held in Ain Shams University" ]
+
+
+    },
+    {
+      "tag": "applai`s departments",
+      "patterns": [ "how many departments are there in applai ?", "what are applai`s departments ?" ],
+      "responses": [ "We have five departments , four are non-technical which are : HR , Media ,Operations and  PR departments    and one technical department which is : Research and Training " ]
+
+    },
+    {
+      "tag": "applai`s trainings place",
+      "patterns": [ "where is applai`s training held?", "where could I find applai`s training ?", "at what place is the training held?" ],
+      "responses": [ "We have two trainings , a winter and a summer training. Both are held in Ain Shams University" ]
+
+    },
+    {
+      "tag": "applai`s campaigns",
+      "patterns": [ "Does applai hold any campaigns ?", "what other activities does applai offer?" ],
+      "responses": [ "applai conducts several campaigns such as a CV Campaign for Ain Shams students and a Thanawia Ama Campaign for freshmen before the beginning of their first academic year " ]
+
+    },
+
+    {
+      "tag": "general information about applai",
+      "patterns": [ "When was applai club established?", "For how many years has applai been working?", "When was applai created at Ain Shams University?", "Does applai have any other branches?", "How many branches does applai have?" ],
+      "responses": [ "Applai was established in 2019 in Ain Shams University, so it has been working for 4 years and now it has another branch in Arab Academy for Science, Technology and Maritime Transport (AAST)" ]
+
+    },
+    {
+      "tag": "applai's training content",
+      "patterns": [ "What is the content offered in applai's training?", "Is the training content AI related?", "What topic does applai's trainings cover?", "Does applai explain machine and deep learning?","What is applai?"],
+      "responses": [ "ApplAi is an Artifical Intelligence community that simplifies AI concepts for students interested in this major, it prepares pioneer mentors that demonstarte AI through intensive trainings. Applai offers two trainings a machine learning (ML) and a deep learning training (DL). " ]
+
+    }
+
+  ]
+}
